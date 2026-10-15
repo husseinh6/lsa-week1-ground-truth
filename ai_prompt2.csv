@@ -1,0 +1,121 @@
+label,confidence,error,raw,id
+Sports,0.98,,"{
+  ""label"": ""Sports"",
+  ""confidence"": 0.98
+}",1
+World,0.97,,"{
+  ""label"": ""World"",
+  ""confidence"": 0.97
+}",2
+Sports,0.99,,"{
+  ""label"": ""Sports"",
+  ""confidence"": 0.99
+}",3
+Sports,0.99,,"{
+  ""label"": ""Sports"",
+  ""confidence"": 0.99
+}",4
+Sports,0.99,,"{
+  ""label"": ""Sports"",
+  ""confidence"": 0.99
+}",5
+Sci/Tech,0.92,,"{
+  ""label"": ""Sci/Tech"",
+  ""confidence"": 0.92
+}",6
+World,0.97,,"{
+  ""label"": ""World"",
+  ""confidence"": 0.97
+}",7
+Business,0.97,,"{
+  ""label"": ""Business"",
+  ""confidence"": 0.97
+}",8
+Business,0.92,,"{
+  ""label"": ""Business"",
+  ""confidence"": 0.92
+}",9
+Sci/Tech,0.96,,"{
+  ""label"": ""Sci/Tech"",
+  ""confidence"": 0.96
+}",10
+Sports,0.99,,"{
+  ""label"": ""Sports"",
+  ""confidence"": 0.99
+}",11
+World,0.97,,"{
+  ""label"": ""World"",
+  ""confidence"": 0.97
+}",12
+Sports,0.99,,"{
+  ""label"": ""Sports"",
+  ""confidence"": 0.99
+}",13
+Sci/Tech,0.92,,"{
+  ""label"": ""Sci/Tech"",
+  ""confidence"": 0.92
+}",14
+Sci/Tech,0.92,,"{
+  ""label"": ""Sci/Tech"",
+  ""confidence"": 0.92
+}",15
+Business,0.66,,"{
+  ""label"": ""Business"",
+  ""confidence"": 0.66
+}",16
+World,0.97,,"{
+  ""label"": ""World"",
+  ""confidence"": 0.97
+}",17
+Business,0.86,,"{
+  ""label"": ""Business"",
+  ""confidence"": 0.86
+}",18
+Business,0.93,,"{
+  ""label"": ""Business"",
+  ""confidence"": 0.93
+}",19
+World,0.97,,"{
+  ""label"": ""World"",
+  ""confidence"": 0.97
+}",20
+World,0.97,,"{
+  ""label"": ""World"",
+  ""confidence"": 0.97
+}",21
+Business,0.93,,"{
+  ""label"": ""Business"",
+  ""confidence"": 0.93
+}",22
+Business,0.96,,"{
+  ""label"": ""Business"",
+  ""confidence"": 0.96
+}",23
+World,0.97,,"{
+  ""label"": ""World"",
+  ""confidence"": 0.97
+}",24
+World,0.97,,"{
+  ""label"": ""World"",
+  ""confidence"": 0.97
+}",25
+Sports,0.98,,"{
+  ""label"": ""Sports"",
+  ""confidence"": 0.98
+}",26
+Sports,0.98,,"{
+  ""label"": ""Sports"",
+  ""confidence"": 0.98
+}",27
+Business,0.71,,"{
+  ""label"": ""Business"",
+  ""confidence"": 0.71
+}",28
+Business,0.86,,"{
+  ""label"": ""Business"",
+  ""confidence"": 0.86
+}",29
+Sci/Tech,0.97,,"{
+  ""label"": ""Sci/Tech"",
+  ""confidence"": 0.97
+}",30
